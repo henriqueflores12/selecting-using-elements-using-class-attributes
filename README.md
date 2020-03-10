@@ -1,2 +1,3 @@
 # selecting-using-elements-using-class-attributes
-the getElementByClass() method allows you to select elements whose class attribute contains a specific value
+the getElementByClass() method allows you to select elements whose class attribute contains a specific value...
+more info at the js file
